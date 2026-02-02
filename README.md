@@ -1,7 +1,17 @@
 ## 👋 Hi there, I'm Weiwei
 
-A first-year senior high school student from China who loves life.
+## About 
+A first-year senior high school student from China who loves life
+👨‍🎓Age: 16
+✉️Email: 3897755388@qq.com
 
+## 🖇️ My Website 
+www.lov3u.top
+
+## Hobby
+🏀 basketball 
+🏃 run 
+⌨️programming
 
 ### Front-end Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
