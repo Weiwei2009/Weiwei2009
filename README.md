@@ -6,7 +6,8 @@ A first-year senior high school student from China who loves life
 ✉️Email: 3897755388@qq.com
 
 ## 🖇️ My Website 
-www.lov3u.top
+Blog:https://www.lov3u.top
+Personalpage:
 
 ## Hobby
 🏀 basketball 
