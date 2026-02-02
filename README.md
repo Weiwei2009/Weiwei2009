@@ -1,56 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm [你的名字]
 
-<!--
-**Weiwei2009/Weiwei2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**全栈开发者 | WordPress专家 | 创意工程师**
 
-Here are some ideas to get you started:
+## 🛠️ 技术栈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋 I'm [Weiwei]
+### 前端开发
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-[一句简短的自我介绍，比如：热爱技术的开发者/嵌入式工程师/全栈开发者等]
+### 后端与CMS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## 🔧 技术栈与技术
+## 📊 技能矩阵
 
-### 编程语言
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+| 技术 | 熟练度 | 主要应用 |
+|------|--------|----------|
+| **HTML5** | ⭐⭐⭐⭐⭐ | 语义化标记、响应式布局 |
+| **CSS3** | ⭐⭐⭐⭐⭐ | Flexbox、Grid、动画效果 |
+| **JavaScript** | ⭐⭐⭐⭐ | DOM操作、AJAX、ES6+ |
+| **Python** | ⭐⭐⭐⭐ | Web开发、数据分析、自动化 |
+| **WordPress** | ⭐⭐⭐⭐⭐ | 主题开发、插件定制、WooCommerce |
 
-### 框架与工具
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+## 💼 项目经验
 
-## 📊 GitHub 统计
+### 🏗️ WordPress项目
+- **企业官网定制** - 基于WordPress开发响应式企业网站
+- **电商商城** - WooCommerce定制开发，支付集成
+- **会员系统** - 用户权限管理、订阅功能开发
 
-![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
+### 🖥️ 前端项目
+- **响应式Web应用** - 使用HTML5、CSS3、JavaScript
+- **交互式仪表板** - 数据可视化、实时更新
+- **移动端优化** - PWA应用、离线功能
 
-![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)
+### 🐍 Python项目
+- **Web应用后端** - Django/Flask REST API开发
+- **自动化脚本** - 数据处理、批量操作
+- **爬虫工具** - 数据采集、信息整理
 
-## 🚀 我正在做/学习
-
-- 🔭 我正在做: [你的项目或工作]
-- 🌱 我正在学: [你正在学习的技术]
-- 👯 我希望合作: [希望合作的项目类型]
-- 🤔 我需要帮助: [需要帮助的方向]
-- 💬 可以问我关于: [你擅长的领域]
-- 📫 联系我: [你的邮箱]
-
-## 📈 本周编码时间
+## 📚 学习路径
 
 ```mermaid
-pie
-    title 本周编程语言分布
-    "Python" : 35
-    "JavaScript" : 25
-    "C++" : 20
-    "其他" : 20
+graph LR
+A[HTML/CSS基础] --> B[JavaScript核心]
+B --> C[前端框架学习]
+A --> D[Python入门]
+D --> E[Django/Flask]
+E --> F[WordPress开发]
+C --> G[全栈项目实践]
+F --> G
