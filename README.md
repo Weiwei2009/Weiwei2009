@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Weiwei
+## 👋 Hi there, I'm Weiwei
 
-A first-year senior high school student from China who loves life
+A first-year senior high school student from China who loves life.
 
 
 ### 前端开发
